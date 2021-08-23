@@ -8,6 +8,7 @@
   「 From VietNam 」
   </samp>
 </p>
+<hr  width="40%" size="10px" align="center" />
 <p align="center"> 
   <img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif?cid=ecf05e471rd5i7qqc88pc3jaqdzece6ouyjgcl1tijiyaiuo&rid=giphy.gif&ct=g" width="500">
 </p>
