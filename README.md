@@ -8,9 +8,6 @@
   「 From VietNam 」
   </samp>
 </p>
-<p align="left"> 
-  <img src="https://media.giphy.com/media/ejKpjEfcPuYve/giphy-downsized-large.gif?cid=ecf05e473oc0yuzj15hqivxmx92y5ra8kfsa95rqomlx3re3&rid=giphy-downsized-large.gif&ct=g" width="500">
-</p>
 <p align="center"> 
-  <img src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif?cid=ecf05e471rd5i7qqc88pc3jaqdzece6ouyjgcl1tijiyaiuo&rid=giphy.gif&ct=g" width="500">
+  <img src="https://media.giphy.com/media/ny7UCd6JETnmE/source.gif?cid=ecf05e47g16ehvc32f9stbk4o6e054yvdd7sa5my19b7j7xe&rid=source.gif&ct=g" width="500">
 </p>
