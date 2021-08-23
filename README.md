@@ -8,3 +8,6 @@
   「 From VietNam 」
   </samp>
 </p>
+<p align="center"> 
+  <img src="https://giphy.com/gifs/internet-college-class-ny7UCd6JETnmE" width="70">
+</p>
