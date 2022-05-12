@@ -18,3 +18,7 @@
     </td>
   </tr>
 </table>
+### Github Statistics
+<p align="left">
+  <img align="center" width="475" src="https://github-readme-stats.vercel.app/api?username=botmeo&show_icons=true&count_private=true&theme=blue"></img>
+</p>
