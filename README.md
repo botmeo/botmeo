@@ -16,6 +16,7 @@
   </tr>
 </table>
 
-<p align="left">
-  <img align="center" width="475" src="https://github-readme-stats.vercel.app/api?username=botmeo&show_icons=true&count_private=true&theme=blue-green"></img>
+<p align="center">
+  <img alt="Github Stats" align="center" width="62%" src="https://github-readme-stats.vercel.app/api?username=botmeo&show_icons=true&count_private=true&hide_border=true&theme=blue-green"></img>
+  <img alt="Top Langs" align="center" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botmeo&layout=compact&count_private=true&&hide_border=true&langs_count=10&theme=blue-green"/>
 </p>
