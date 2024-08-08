@@ -8,6 +8,7 @@
   「 From VietNam 」
   </samp>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=botmeo009&label=Visit&color=238636&style=flat" alt="botmeo" /> </p>
 <table align="center" style="width:100%">
   <tr>
     <td>
