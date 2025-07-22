@@ -15,8 +15,23 @@
 </p>
 <table align="center" style="width:100%">
   <tr>
-    <td>
-      <img src="https://media.giphy.com/media/ny7UCd6JETnmE/source.gif?cid=ecf05e47g16ehvc32f9stbk4o6e054yvdd7sa5my19b7j7xe&rid=source.gif&ct=g" width="500" object-fit:"contain">
+    <td align="center" style="width:80%">
+      <img src="https://media.giphy.com/media/ny7UCd6JETnmE/source.gif?cid=ecf05e47g16ehvc32f9stbk4o6e054yvdd7sa5my19b7j7xe&rid=source.gif&ct=g" width="238" object-fit:"contain" alt="This is fine" >
+       <div><samp>This is fine</samp></div>
+    </td>
+    <td align="center" style="width:80%">
+      <img src="https://media.giphy.com/media/Mab1lyzb70X0YiNLUj/giphy.gif" width="300" object-fit:"contain" alt="It works on my machine" >
+       <div><samp>It works on my machine</samp></div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="width:80%">
+      <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="230" object-fit:"contain"  alt="When code finally runs" />
+      <div><samp>When code finally runs</samp></div>
+    </td>
+    <td align="center" style="width:80%">
+      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" object-fit:"contain"  alt="Waiting for build to finish" />
+      <div><samp>Waiting for build to finish...</samp></div>
     </td>
   </tr>
 </table>
